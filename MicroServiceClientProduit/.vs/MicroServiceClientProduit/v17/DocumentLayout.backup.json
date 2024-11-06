@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\produitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\produitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\iproduitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\iproduitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\microserviceclientproduit\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6945864-77A0-4659-8508-7CCB1619937F}|MicroServiceClientProduit.csproj|solutionrelative:models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProduitsController.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:07:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEEAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:39:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategorieRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\CategorieRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\CategorieRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\CategorieRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\CategorieRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:36:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\ClientRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:11:31.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProduitRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ProduitRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\ProduitRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ProduitRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\ProduitRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:33:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategorieRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ICategorieRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\ICategorieRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\ICategorieRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\ICategorieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:06:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProduitRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\IProduitRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IProduitRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\IProduitRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IProduitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:02:33.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IClientRepository.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:52:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:35:22.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "Models\\Categorie.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Categorie.cs",
+              "RelativeToolTip": "Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:38:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "Models\\Produit.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Produit.cs",
+              "RelativeToolTip": "Models\\Produit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:37:48.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\MicroServiceClientProduit\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:30:45.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
