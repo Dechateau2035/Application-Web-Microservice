@@ -45,6 +45,7 @@ namespace MicroServiceClientProduit.Controllers
             }
         }
 
+        //Ajout d'un client
         [HttpPost]
         public async Task<ActionResult<Client>> CreateClient(Client client)
         {
@@ -73,6 +74,7 @@ namespace MicroServiceClientProduit.Controllers
             }
         }
 
+        //Mise à jour des informations sur un client à partir de son Id
         [HttpPut("{id:int}")]
         public async Task<ActionResult<Client>> UpdateEmployee(int id, Client client)
         {
@@ -94,6 +96,7 @@ namespace MicroServiceClientProduit.Controllers
             }
         }
 
+        //Supression d'un client à partir de son Id
         [HttpDelete("{id:int}")]
         public async Task<ActionResult<Client>> DeleteEmployee(int id)
         {
@@ -111,6 +114,7 @@ namespace MicroServiceClientProduit.Controllers
             }
         }
 
+        // Recherche sur les clients à partir d'un mot clé
         [HttpGet("{search}")]
         public async Task<ActionResult<IEnumerable<Client>>> Search(string name)
         {
