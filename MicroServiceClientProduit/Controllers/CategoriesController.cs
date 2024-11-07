@@ -26,7 +26,7 @@ namespace MicroServiceClientProduit.Controllers
             catch (Exception e)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError,
-                $"Erreur lors de la recupération des clients! Cause : {e.Message}");
+                $"Erreur lors de la recupération des catégories! Cause : {e.Message}");
             }
         }
 
@@ -48,18 +48,18 @@ namespace MicroServiceClientProduit.Controllers
 
         //Ajout d'une catégorie
         [HttpPost]
-        public async Task<ActionResult<Client>> CreateCategorie(Categorie categorie)
+        public async Task<ActionResult<Categorie>> CreateCategorie(Categorie categorie)
         {
             try
             {
                 if (categorie == null) return BadRequest();
                 else
                 {
-                    //Verifie si l'email existe dejà en Base de données
+                    //Verifie si une catégorie avec le meme nom existe dejà en Base de données
                     var c = await categorieRepository.GetCategorieByName(categorie.Name);
                     if (c != null)
                     {
-                        ModelState.AddModelError("Email", "Ce mail est déjà utilisé par un client");
+                        ModelState.AddModelError("Categorie", "Ce nom est déjà utilisé par une catégorie");
                         return BadRequest(ModelState);
                     }
                     else
@@ -82,12 +82,13 @@ namespace MicroServiceClientProduit.Controllers
             try
             {
                 if (id != categorie.CategorieId)
-                    return BadRequest("L'Id du client ne correspond pas!!");
+                    return BadRequest("L'Id du catégorie ne correspond pas!!");
 
-                var employeeToUpdate = await categorieRepository.GetCategorie(id);
+                var categorieToUpdate = await categorieRepository.GetCategorie(id);
 
-                if (employeeToUpdate != null)
-                    return NotFound($"Le client avec l'Id = {id} est introuvable");
+                if (categorieToUpdate == null)
+                if (categorieToUpdate == null)
+                    return NotFound($"La catégorie avec l'Id = {id} est introuvable");
 
                 return await categorieRepository.UpdateCategorie(categorie);
             }
@@ -97,14 +98,14 @@ namespace MicroServiceClientProduit.Controllers
             }
         }
 
-        //Supression d'un client à partir de son Id
+        //Supression d'une catégorie à partir de son Id
         [HttpDelete("{id:int}")]
         public async Task<ActionResult<Categorie>> DeleteCategorie(int id)
         {
             try
             {
-                var employeeToDelete = await categorieRepository.GetCategorie(id);
-                if (employeeToDelete == null)
+                var categorieToDelete = await categorieRepository.GetCategorie(id);
+                if (categorieToDelete == null)
                     return NotFound($"La catégorie avec l'Id = {id} est introuvable");
 
                 return await categorieRepository.DeleteCategorie(id);

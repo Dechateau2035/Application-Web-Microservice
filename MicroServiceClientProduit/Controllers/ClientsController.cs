@@ -76,16 +76,16 @@ namespace MicroServiceClientProduit.Controllers
 
         //Mise à jour des informations sur un client à partir de son Id
         [HttpPut("{id:int}")]
-        public async Task<ActionResult<Client>> UpdateEmployee(int id, Client client)
+        public async Task<ActionResult<Client>> UpdateClient(int id, Client client)
         {
             try
             {
                 if (id != client.ClientId)
                     return BadRequest("L'Id du client ne correspond pas!!");
 
-                var employeeToUpdate = await clientRepository.GetClient(id);
+                var clientToUpdate = await clientRepository.GetClient(id);
 
-                if (employeeToUpdate != null)
+                if (clientToUpdate == null)
                     return NotFound($"Le client avec l'Id = {id} est introuvable");
 
                 return await clientRepository.UpdateClient(client);
@@ -98,12 +98,12 @@ namespace MicroServiceClientProduit.Controllers
 
         //Supression d'un client à partir de son Id
         [HttpDelete("{id:int}")]
-        public async Task<ActionResult<Client>> DeleteEmployee(int id)
+        public async Task<ActionResult<Client>> DeleteClient(int id)
         {
             try
             {
-                var employeeToDelete = await clientRepository.GetClient(id);
-                if (employeeToDelete == null)
+                var clientToDelete = await clientRepository.GetClient(id);
+                if (clientToDelete == null)
                     return NotFound($"Le client avec l'Id = {id} est introuvable");
 
                 return await clientRepository.DeleteClient(id);
@@ -115,7 +115,7 @@ namespace MicroServiceClientProduit.Controllers
         }
 
         // Recherche sur les clients à partir d'un mot clé
-        [HttpGet("{search}")]
+        [HttpGet("search/{name}")]
         public async Task<ActionResult<IEnumerable<Client>>> Search(string name)
         {
             try
@@ -124,7 +124,7 @@ namespace MicroServiceClientProduit.Controllers
                 if (result.Any())
                     return Ok(result);
 
-                return NotFound();
+                return NotFound($"Aucun resultat pour {name}");
             }
             catch (Exception e)
             {

@@ -16,6 +16,12 @@ namespace MicroServiceClientProduit.Models.Repositories
 
         public async Task<Produit> AddProduit(Produit produit)
         {
+            // Vérifie si la catégorie associée existe
+            var categorieExists = await appDbContext.Categories.AnyAsync(c => c.CategorieId == produit.CategorieId);
+            if (!categorieExists)
+            {
+                throw new ArgumentException("La catégorie spécifiée n'existe pas.");
+            }
             var result = await appDbContext.Produits.AddAsync(produit);
             await appDbContext.SaveChangesAsync();
             return result.Entity;
@@ -36,6 +42,11 @@ namespace MicroServiceClientProduit.Models.Repositories
         public async Task<Produit> GetProduit(int id)
         {
             return await appDbContext.Produits.FirstOrDefaultAsync(p => p.ProduitId == id);
+        }
+
+        public async Task<Produit> GetProduitByName(string name)
+        {
+            return await appDbContext.Produits.FirstOrDefaultAsync(p => p.Name == name);
         }
 
         public async Task<IEnumerable<Produit>> GetProduits()

@@ -90,6 +90,9 @@ namespace MicroServiceClientProduit.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<int>("quantite")
+                        .HasColumnType("int");
+
                     b.HasKey("ProduitId");
 
                     b.HasIndex("CategorieId");

@@ -15,6 +15,9 @@ namespace MicroServiceClientProduit.Models
         public decimal Price { get; set; }
 
         [Required]
+        public int quantite { get; set; }
+
+        [Required]
         public byte[]? ImageData { get; set; }  // Blob image
 
         public int CategorieId { get; set; }

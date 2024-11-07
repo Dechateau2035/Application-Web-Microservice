@@ -20,6 +20,12 @@ builder.Services.AddScoped<IClientRepository, ClientRepository>();
 builder.Services.AddScoped<IProduitRepository, ProduitRepository>();
 builder.Services.AddScoped<ICategorieRepository, CategorieRepository>();
 
+//Inscrire le service d'autoMapper
+builder.Services.AddAutoMapper(typeof(Program));
+
+//Activation du service Cors
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -30,6 +36,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+//Ajout du middleWare app.UseCors
+app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
 app.UseAuthorization();
 
