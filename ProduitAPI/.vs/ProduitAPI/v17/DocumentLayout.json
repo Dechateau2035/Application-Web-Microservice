@@ -3,6 +3,33 @@
   "WorkspaceRootPath": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12B12C17-7700-487B-BB96-39D79D3D26AC}|..\\EchangeDeviseAPI\\EchangeDeviseAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\echangedeviseapi\\service\\deviseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B12C17-7700-487B-BB96-39D79D3D26AC}|..\\EchangeDeviseAPI\\EchangeDeviseAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\echangedeviseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B12C17-7700-487B-BB96-39D79D3D26AC}|..\\EchangeDeviseAPI\\EchangeDeviseAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\echangedeviseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\produitapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:produitapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B12C17-7700-487B-BB96-39D79D3D26AC}|..\\EchangeDeviseAPI\\EchangeDeviseAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\echangedeviseapi\\controllers\\devisecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B12C17-7700-487B-BB96-39D79D3D26AC}|..\\EchangeDeviseAPI\\EchangeDeviseAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\echangedeviseapi\\model\\devisebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\controleur\\produitcontroleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:controleur\\produitcontroleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,15 +41,7 @@
       "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:controleur\\categoriecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DB90F6C-9258-4FB1-92BD-DF3DC5F518ED}|..\\ClientAPI\\ClientAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\clientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870973AE-590E-4B55-A129-6003823AF204}|ProduitAPI.csproj|e:\\ginf\\ginf3\\al_ca2_1\\minprojet_alca2\\application-web-microservice\\produitapi\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,7 +118,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProduitAPI.http",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\ProduitAPI.http",
+              "RelativeDocumentMoniker": "ProduitAPI.http",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\ProduitAPI.http",
+              "RelativeToolTip": "ProduitAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-05T19:19:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EchangeDeviseAPI\\Program.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Program.cs",
+              "RelativeToolTip": "..\\EchangeDeviseAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:37:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviseControler.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Controllers\\DeviseControler.cs",
+              "RelativeDocumentMoniker": "..\\EchangeDeviseAPI\\Controllers\\DeviseControler.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Controllers\\DeviseControler.cs",
+              "RelativeToolTip": "..\\EchangeDeviseAPI\\Controllers\\DeviseControler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:18:39.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviseService.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Service\\DeviseService.cs",
+              "RelativeDocumentMoniker": "..\\EchangeDeviseAPI\\Service\\DeviseService.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Service\\DeviseService.cs",
+              "RelativeToolTip": "..\\EchangeDeviseAPI\\Service\\DeviseService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:46:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviseBase.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Model\\DeviseBase.cs",
+              "RelativeDocumentMoniker": "..\\EchangeDeviseAPI\\Model\\DeviseBase.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\Model\\DeviseBase.cs",
+              "RelativeToolTip": "..\\EchangeDeviseAPI\\Model\\DeviseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:44:05.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\EchangeDeviseAPI\\appsettings.json",
+              "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\EchangeDeviseAPI\\appsettings.json",
+              "RelativeToolTip": "..\\EchangeDeviseAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T17:01:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CategorieControler.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Controleur\\CategorieControler.cs",
               "RelativeDocumentMoniker": "Controleur\\CategorieControler.cs",
@@ -112,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ProduitControleur.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Controleur\\ProduitControleur.cs",
               "RelativeDocumentMoniker": "Controleur\\ProduitControleur.cs",
@@ -125,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
@@ -138,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ProduitDetailsDto.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Dto\\ProduitDetailsDto.cs",
               "RelativeDocumentMoniker": "Dto\\ProduitDetailsDto.cs",
@@ -151,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ProduitDto.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Dto\\ProduitDto.cs",
               "RelativeDocumentMoniker": "Dto\\ProduitDto.cs",
@@ -177,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "CategorieRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Repositories\\CategorieRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategorieRepository.cs",
@@ -196,14 +293,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T14:30:39.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ProduitRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Repositories\\ProduitRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProduitRepository.cs",
@@ -216,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "IProduitRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Repositories\\IProduitRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IProduitRepository.cs",
@@ -229,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "ICategorieRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Repositories\\ICategorieRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ICategorieRepository.cs",
@@ -242,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -255,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Categorie.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Models\\Categorie.cs",
               "RelativeDocumentMoniker": "Models\\Categorie.cs",
@@ -268,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Produit.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ProduitAPI\\Models\\Produit.cs",
               "RelativeDocumentMoniker": "Models\\Produit.cs",
@@ -281,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ClientControler.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Controleur\\ClientControler.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Controleur\\ClientControler.cs",
@@ -294,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Program.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Program.cs",
@@ -307,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ClientAPI\\appsettings.json",
@@ -320,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Model\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Model\\AppDbContext.cs",
@@ -333,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "ClientRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Repositorie\\ClientRepository.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Repositorie\\ClientRepository.cs",
@@ -346,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Repositorie\\IClientRepository.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Repositorie\\IClientRepository.cs",
@@ -359,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Client.cs",
               "DocumentMoniker": "E:\\GINF\\GINF3\\AL_CA2_1\\MinProjet_ALCA2\\Application-Web-Microservice\\ClientAPI\\Model\\Client.cs",
               "RelativeDocumentMoniker": "..\\ClientAPI\\Model\\Client.cs",

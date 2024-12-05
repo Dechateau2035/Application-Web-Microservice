@@ -1,0 +1,6 @@
+@EchangeDeviseAPI_HostAddress = http://localhost:5268
+
+GET {{EchangeDeviseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

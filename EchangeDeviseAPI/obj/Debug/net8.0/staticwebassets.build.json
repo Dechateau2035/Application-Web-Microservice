@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Teln9QkyY2TDVzFOJStakrqhWobtEjPwRysRT5w3ABk=",
+  "Source": "EchangeDeviseAPI",
+  "BasePath": "_content/EchangeDeviseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

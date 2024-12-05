@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "EchangeDeviseAPI.Controllers.DeviseControler",
+    "Method": "GetTauxEchangeConvert",
+    "RelativePath": "api/devise/convert/{deviseBase}/{deviseConvert}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviseBase",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "deviseConvert",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EchangeDeviseAPI.Controllers.DeviseControler",
+    "Method": "GetTauxEchange",
+    "RelativePath": "api/devise/taux/{deviseBase}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviseBase",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
